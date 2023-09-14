@@ -18,4 +18,4 @@ My superpowers include Python, deep learning, NLP, computer vision, and more! �
 
   * Plant Disease Classification 🌱: Created an image classifier using ResNet to identify 38 plant diseases. 🌳
 
-There's so much more I'm learning and building as an aspiring ML engineer. Let's chat! I'm always happy to connect with others who are passionate about AI. 😊
+There's so much more I'm learning and building as an aspiring ML engineer. [Let's chat!](https://www.linkedin.com/in/harshaljhirpara) I'm always happy to connect with others who are passionate about AI. 😊
