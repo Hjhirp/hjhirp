@@ -32,14 +32,18 @@ I love building intelligent systems to solve real-world problems with cutting-ed
   For more of my writing, visit my [Medium](https://medium.com/@hhirp).
 
 #### 🎯 Projects I'm Proud Of:
-* **LLM-Grounded Text-In-Image Generation** 🖼️: Leveraged Llama 16B to generate conditional masks of text within images, utilizing a custom dataset and advanced model optimization techniques.
+* **LLM-Grounded Text-In-Image Generation** 🖼️: Leveraged Llama 16B to generate conditional text masks within images, utilizing a custom dataset and advanced model optimization techniques.
   * **Tech Stack**: Python, PyTorch, OpenCV, C++.
 
-* **Ambulatory EEG Signal Analysis** 🧠: Reduced EEG signal processing time by 40% with a scalable ML pipeline. Achieved 99% accuracy and 88% sensitivity in EEG anomaly detection.
+* **Ambulatory EEG Signal Analysis** 🧠: Reduced EEG signal processing time by 40% with a scalable ML pipeline and achieved 99% accuracy and 88% sensitivity in EEG anomaly detection.
   * **Tech Stack**: Python, JAX, SciPy, Azure ML Studio.
+ 
+* **Evaluating LLM Powered AI-Agents** 🎮: Developed AI agents generating FAST APIs of 7B and 16B LLMs to navigate complex game environments like blackjack and pathfinding, focusing on algorithm efficiency and bias reduction through few-shot learning and algorithmic adjustments.
+
+  * **Tech Stack**: Langchain, Python, PyTorch, FastAPI.
 
 * **CS553 Distributed Computing Project** - Distributed Algorithms Simulation 🖥️  
-  This project is a simulation of various distributed computing algorithms implemented in Scala using the Akka framework. The project includes automated simulations, message-passing and shared memory algorithms, and performance visualization with Prometheus and Grafana.  
+  This project simulates various distributed computing algorithms implemented in Scala using the Akka framework. The project includes automated simulations, message-passing, shared memory algorithms, and performance visualization with Prometheus and Grafana.  
   * **Tech Stack**: Scala, Akka, Grafana, Prometheus, IntelliJ.
 
 * **SCIPASUMM** 📜: Working on an end-to-end research paper summarization pipeline using NLP techniques like Bart-ls.
@@ -48,7 +52,7 @@ I love building intelligent systems to solve real-world problems with cutting-ed
 * **Apple Grading Using Computer Vision** 🍏: This repository demonstrates how to grade apples using image processing and CNNs. Learn about computer vision, and contribute to agricultural technology. 🌱🤖  
   * **Tech Stack**: Python, OpenCV, Keras, TensorFlow, CNN.
 
-* **Gaze Detection Using Computer Vision** 👀: Driver Gaze and Drowsiness Detection with Computer Vision. This project detects driver gaze and drowsiness in real-time, enhancing road safety. 📹🤯  
+* **Gaze Detection Using Computer Vision** 👀: Driver Gaze and Drowsiness Detection with Computer Vision. This project detects driver gaze and drowsiness in real time, enhancing road safety. 📹🤯  
   * **Tech Stack**: Python, OpenCV, MediaPipe.
 
 * **UNET Implementation for Image Segmentation** 🌟: Explore the UNET architecture, a powerful tool for image segmentation. Enhance your image segmentation skills through this implementation.  
