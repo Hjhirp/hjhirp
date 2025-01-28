@@ -77,3 +77,5 @@ I love building intelligent systems to solve real-world problems with cutting-ed
   * **Tech Stack**: Python, Keras, TensorFlow, ResNet, OpenCV.
 
 There's so much more I'm learning and building as an aspiring ML engineer. [Let's connect on LinkedIn!](https://www.linkedin.com/in/harshaljhirpara) I'm always happy to network with others who are passionate about AI. 😊
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hjhirp)
