@@ -1,4 +1,4 @@
-Hi there, I'm Harshal Hirpara! 👋  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hjhirp)
+Hi there, I'm Harshal Hirpara! 👋  [![Harshal Hirpara profile views](https://u8views.com/api/v1/github/profiles/143730624/views/day-week-month-total-count.svg)](https://u8views.com/github/Hjhirp)
 ===============================  
 I'm an aspiring 🚀 ML engineer and M.S. Computer Science student @ University of Illinois Chicago 🌆
 
