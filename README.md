@@ -16,12 +16,12 @@ I love building intelligent systems to solve real-world problems with cutting-ed
   * Developed an Offline Reinforcement Learning model to recommend optimal treatment actions for a digital twin of a cancer patient.
   * **Tech Stack**: Python, PyTorch, RL-Gym.
 
-* **Graduate Researcher** - UI Health, Neurology and Rehabilitation Dept. (Oct 2023 - Present)  
+* **Graduate Research Assistant** - UI Health, Neurology and Rehabilitation Dept. (Oct 2023 - Present)  
   * Deployed a scalable ML pipeline reducing EEG signal analysis processing time by 40%.
   * Achieved state-of-the-art detection with 99% accuracy, 88% sensitivity, and 0.43 false positives per hour.
   * **Tech Stack**: Python, JAX, SciPy, Azure ML Studio.
 
-* **Machine Learning Intern** - Cactus Communications (Jan 2023 - Jul 2023)  
+* **Machine Learning Engineer** - Cactus Communications (Jan 2023 - Jul 2023)  
   * Reduced operational costs by $10K annually by optimizing GPT-3.5 API usage, and improved system reliability by 15%.
   * Created a text extraction and keyword generation tool using Huggingface transformers to aid scientific writing.
   * **Tech Stack**: Python, PyTorch, AWS (EC2, Inferentia), Docker, Terraform.
