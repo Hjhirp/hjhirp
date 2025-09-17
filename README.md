@@ -48,6 +48,24 @@ I love building intelligent systems to solve real-world problems with cutting-ed
 
 ---
 
+#### 📚 Research & Publications:
+* **Online LLM Alignment Beyond Preference Methods** *(Under Writing)*  
+  Advanced LLM alignment via online DPO with LLM-as-a-Judge, reducing reliance on preference-based scoring with automated W&B hyperparameter sweeps.  
+
+* **Guided Policy Gradient for Dynamic Treatment Plan Prediction with Symptom Burden in Cancer** *(Under Publication, Apr 2025)*  
+  Developed and evaluated a Deep RL framework to automate cancer treatment planning, optimizing efficacy while minimizing symptom burden.  
+
+* **Automated Seizure Detection in Ambulatory EEG** *(AESnet 2024)*  
+  Built an EEG seizure detection system using XGBoost, CatBoost, and LightGBM ensembles, achieving **99% accuracy, 88% sensitivity, 0.43 FP/hr**.  
+
+* **Capacity Estimation of Li-Ion Battery Cells Using Deep Neural Networks** *(Springer, Oct 2024)*  
+  Leveraged LSTM models for forecasting, achieving **0.0067 RMSE loss** with statistical preprocessing.  
+
+* **Exploring Large Language Models: Concepts, Alignment Techniques, and Practical Implementation** *(Medium, Dec 2024)*  
+  Documented implementations of LoRA, QLoRA, SFT, RLHF, DPO, KTO, ORPO for optimizing model behavior.  
+
+---
+
 #### 🎯 Projects I'm Proud Of:
 * **Notey – AI-Powered Memory Companion** 📝  
   Built a multi-modal event capture platform with audio transcription, AI summarization, semantic search, and secure Supabase storage.  
