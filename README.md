@@ -1,81 +1,115 @@
-Hi there, I'm Harshal Hirpara! 👋  [![Harshal Hirpara profile views](https://u8views.com/api/v1/github/profiles/143730624/views/day-week-month-total-count.svg)](https://u8views.com/github/Hjhirp)
-===============================  
-I'm an aspiring 🚀 ML engineer and M.S. Computer Science student @ University of Illinois Chicago 🌆
+# Hi there, I'm Harshal Hirpara! 👋  
+[![Harshal Hirpara profile views](https://u8views.com/api/v1/github/profiles/143730624/views/day-week-month-total-count.svg)](https://u8views.com/github/Hjhirp)
 
-I love building intelligent systems to solve real-world problems with cutting-edge technology. 💡
+I'm an aspiring 🚀 ML engineer and M.S. Computer Science student @ University of Illinois Chicago 🌆  
+
+I love building intelligent systems to solve real-world problems with cutting-edge technology. 💡  
+
+---
 
 #### 🔥 Superpowers Unleashed:
-* **Programming Mastery**: Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras), Java, C++, and Scala.
-* **Machine Learning Expertise**: Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, Gradient Boosting.
-* **Data & Cloud Proficiency**: Hadoop, Spark, MongoDB, PostgreSQL, AWS (SageMaker, Lambda, EC2), GCP, Azure, Docker, Kubernetes, Terraform.
-* **AI & Model Development**: Expertise in LLMs, neural networks, and deploying scalable ML models.
+* **Programming Mastery**: Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, JAX, HuggingFace, Keras), Java, C++, Scala, Shell scripting.  
+* **Machine Learning Expertise**: LLM Alignment, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, Gradient Boosting.  
+* **Data & Cloud Proficiency**: Hadoop, Spark, MySQL, PostgreSQL, MongoDB, AWS (SageMaker, Lambda, RDS, EC2, ECS, S3, Amplify, Bedrock), GCP, Azure ML, Docker, Kubernetes, Terraform, Slurm.  
+* **AI & Model Development**: Distributed training (FSDP, DeepSpeed, Accelerate), Agentic workflows (LangChain, FastAPI), ML pipelines, deployment & monitoring.  
+
+---
 
 #### 🚀 Adventures in AI (Work Experience):
-* **Graduate Research Assistant** - University of Illinois at Chicago (Aug 2024 - Present)  
-  * Enhanced user preference-based generation quality for Large Language Models (LLMs) by developing novel methods for alignment.
-  * Developed an Offline Reinforcement Learning model to recommend optimal treatment actions for a digital twin of a cancer patient.
-  * **Tech Stack**: Python, PyTorch, RL-Gym.
+* **Founding Engineer** – Quin (Mountain View, CA) (Jun 2025 – Present)  
+  * Architected backend Lambda + API Gateway routing for dev/prod environments ensuring scalability.  
+  * Integrated financial + LLM APIs for user insights.  
+  * Implemented a **RAG agent with math tools + advanced search**.  
+  * Designed AWS RDS + S3 pipelines for structured + open-source LLM data.  
+  * **Tech Stack**: Python, AWS (Lambda, RDS, ECS, S3, API Gateway, Amplify), TypeScript, Restful APIs.  
 
-* **Graduate Research Assistant** - UI Health, Neurology and Rehabilitation Dept. (Oct 2023 - Present)  
-  * Deployed a scalable ML pipeline reducing EEG signal analysis processing time by 40%.
-  * Achieved state-of-the-art detection with 99% accuracy, 88% sensitivity, and 0.43 false positives per hour.
-  * **Tech Stack**: Python, JAX, SciPy, Azure ML Studio.
+* **Graduate Research Assistant** – University of Illinois at Chicago (Aug 2024 – May 2025)  
+  * Built distributed **online-DPO training pipelines** with LLM-as-a-Judge, cutting training time 54% on A40/A100 clusters.  
+  * Developed an **RL agent (PRBC)** for cancer treatment plans, achieving 98% simulated reward and 61% macro-F1 matching doctors’ choices.  
+  * **Tech Stack**: PyTorch, Kubernetes, Slurm, W&B, Accelerate, DeepSpeed.  
 
-* **Machine Learning Engineer** - Cactus Communications (Jan 2023 - Jul 2023)  
-  * Reduced operational costs by $10K annually by optimizing GPT-3.5 API usage, and improved system reliability by 15%.
-  * Created a text extraction and keyword generation tool using Huggingface transformers to aid scientific writing.
-  * **Tech Stack**: Python, PyTorch, AWS (EC2, Inferentia), Docker, Terraform.
+* **Graduate Research Assistant** – UI Health, Neurology & Rehabilitation Dept. (Oct 2023 – May 2025)  
+  * Deployed an ML pipeline reducing EEG processing time by 40%.  
+  * Achieved 99% accuracy, 88% sensitivity, 0.43 FP/hr in seizure detection.  
+  * **Tech Stack**: Python, MySQL, JAX, SciPy, Docker, Azure ML Studio.  
+
+* **Machine Learning Engineer** – Cactus Communications (Jun 2022 – Jul 2023)  
+  * Cut GPT-3.5 inference costs by $10K annually.  
+  * Built summarization + keyword extraction tools for scientific text.  
+  * Optimized AWS Inferentia deployments for low latency + cost efficiency.  
+  * **Tech Stack**: Python, PyTorch, HuggingFace, AWS (EC2, S3, Inferentia, Lambda, CloudWatch), Docker, Terraform.  
+
+---
 
 #### 📝 Recent Medium Article:
 * **Exploring Large Language Models: Concepts, Alignment Techniques, and Practical Implementation** 📝  
   In this article, I delve into training methods for large language models and alignment techniques, including practical implementations of LoRA, QLoRA, and RLHF. Check it out [here](https://medium.com/@hhirp/exploring-large-language-models-concepts-alignment-techniques-and-practical-implementation-8279aaa2f91f).  
   For more of my writing, visit my [Medium](https://medium.com/@hhirp).
 
+---
+
 #### 🎯 Projects I'm Proud Of:
-* **LLM-Grounded Text-In-Image Generation** 🖼️: Leveraged Llama 16B to generate conditional text masks within images, utilizing a custom dataset and advanced model optimization techniques.
-  * **Tech Stack**: Python, PyTorch, OpenCV, C++.
+* **Notey – AI-Powered Memory Companion** 📝  
+  Built a multi-modal event capture platform with audio transcription, AI summarization, semantic search, and secure Supabase storage.  
+  * **Tech Stack**: Python, FastAPI, React, TypeScript, Supabase, Whisper.cpp, Gemini AI, Vercel, Railway, Fly.io.  
 
-* **Ambulatory EEG Signal Analysis** 🧠: Reduced EEG signal processing time by 40% with a scalable ML pipeline and achieved 99% accuracy and 88% sensitivity in EEG anomaly detection.
-  * **Tech Stack**: Python, JAX, SciPy, Azure ML Studio.
- 
-* **Evaluating LLM Powered AI-Agents** 🎮: Developed AI agents generating FAST APIs of 7B and 16B LLMs to navigate complex game environments like blackjack and pathfinding, focusing on algorithm efficiency and bias reduction through few-shot learning and algorithmic adjustments.
+* **LLM-Grounded Text-In-Image Generation** 🖼️  
+  Leveraged LLaMA-16B to generate conditional text masks within images, fine-tuned GLIGEN with custom loss on A100 GPUs.  
+  * **Tech Stack**: Python, PyTorch, OpenCV, C++, Slurm, HuggingFace.  
 
-  * **Tech Stack**: Langchain, Python, PyTorch, FastAPI.
+* **Ambulatory EEG Signal Analysis** 🧠  
+  Reduced EEG signal processing time by 40% and achieved 99% accuracy and 88% sensitivity in anomaly detection.  
+  * **Tech Stack**: Python, JAX, SciPy, MySQL, Docker, Azure ML Studio.  
 
-* **CS553 Distributed Computing Project** - Distributed Algorithms Simulation 🖥️  
-  This project simulates various distributed computing algorithms implemented in Scala using the Akka framework. The project includes automated simulations, message-passing, shared memory algorithms, and performance visualization with Prometheus and Grafana.  
-  * **Tech Stack**: Scala, Akka, Grafana, Prometheus, IntelliJ.
+* **Evaluating LLM Powered AI-Agents** 🎮  
+  Developed agents for 7B/16B models to navigate RL-Gym games (blackjack, pathfinding), improving reasoning and reducing bias.  
+  * **Tech Stack**: LangChain, FastAPI, Python, PyTorch, HuggingFace.  
 
-* **SCIPASUMM** 📜: Working on an end-to-end research paper summarization pipeline using NLP techniques like Bart-ls.
-  * **Tech Stack**: Python, Bart-ls, Huggingface, PyTorch.
+* **CS553 Distributed Computing Project – Distributed Algorithms Simulation** 🖥️  
+  Simulated distributed algorithms with message-passing and shared memory, visualized with Prometheus and Grafana.  
+  * **Tech Stack**: Scala, Akka, Prometheus, Grafana, IntelliJ.  
 
-* **Apple Grading Using Computer Vision** 🍏: This repository demonstrates how to grade apples using image processing and CNNs. Learn about computer vision, and contribute to agricultural technology. 🌱🤖  
-  * **Tech Stack**: Python, OpenCV, Keras, TensorFlow, CNN.
+* **SCIPASUMM** 📜  
+  End-to-end research paper summarization pipeline using NLP models.  
+  * **Tech Stack**: Python, Bart-LS, HuggingFace, PyTorch, Transformers.  
 
-* **Gaze Detection Using Computer Vision** 👀: Driver Gaze and Drowsiness Detection with Computer Vision. This project detects driver gaze and drowsiness in real time, enhancing road safety. 📹🤯  
-  * **Tech Stack**: Python, OpenCV, MediaPipe.
+* **Apple Grading Using Computer Vision** 🍏  
+  Grading apples using image processing and CNNs to support agri-tech.  
+  * **Tech Stack**: Python, OpenCV, TensorFlow, Keras, CNN.  
 
-* **UNET Implementation for Image Segmentation** 🌟: Explore the UNET architecture, a powerful tool for image segmentation. Enhance your image segmentation skills through this implementation.  
-  * **Tech Stack**: Python, Keras, TensorFlow, UNET.
+* **Gaze Detection Using Computer Vision** 👀  
+  Real-time driver gaze + drowsiness detection.  
+  * **Tech Stack**: Python, OpenCV, MediaPipe, TensorFlow Lite.  
 
-* **YOLO Implementation for Mars Anomaly Detection** 🚀: Discover the secrets of Mars using YOLO to detect anomalies. Explore space exploration and planetary science with this project.  
-  * **Tech Stack**: Python, YOLOv3, Keras, OpenCV.
+* **UNET Implementation for Image Segmentation** 🌟  
+  Exploring UNET architecture for segmentation tasks.  
+  * **Tech Stack**: Python, Keras, TensorFlow, UNet.  
 
-* **Tweet Topic Modelling** 📊: Analyze tweet topics using Gensim and Seaborn. Visualize diverse tweet topics with NLP techniques.  
-  * **Tech Stack**: Python, Gensim, Seaborn, NLTK, Matplotlib.
+* **YOLO Implementation for Mars Anomaly Detection** 🚀  
+  Detecting Mars anomalies with YOLOv3.  
+  * **Tech Stack**: Python, YOLOv3, Keras, OpenCV, PyTorch.  
 
-* **Emotion Recognition with Face Mask** 😷: Created a CNN to classify emotions from masked faces using OpenCV and Keras.
-  * **Tech Stack**: Python, OpenCV, Keras, TensorFlow, CNN.
+* **Tweet Topic Modelling** 📊  
+  Topic modeling and visualization for tweets.  
+  * **Tech Stack**: Python, Gensim, NLTK, Matplotlib, Seaborn.  
 
-* **Lithium-Ion Battery** 🔋: Built a forecasting model using TensorFlow to estimate battery capacity. Achieved ≤4% error!
-  * **Tech Stack**: Python, TensorFlow, Pandas, NumPy, Time-Series Analysis.
+* **Emotion Recognition with Face Mask** 😷  
+  CNN to classify emotions from masked faces.  
+  * **Tech Stack**: Python, OpenCV, TensorFlow, Keras, CNN.  
 
-* **Robotic Arm** 🤖: Trained a simulated robotic arm to grab objects using reinforcement learning algorithms.
-  * **Tech Stack**: Python, PyTorch, RL-Gym.
+* **Lithium-Ion Battery Forecasting** 🔋  
+  Estimated battery capacity with ≤4% error using time-series models.  
+  * **Tech Stack**: Python, TensorFlow, Pandas, NumPy, LSTM.  
 
-* **Plant Disease Classification** 🌱: Developed an image classifier using ResNet to identify 38 plant diseases accurately. 🌳
-  * **Tech Stack**: Python, Keras, TensorFlow, ResNet, OpenCV.
+* **Robotic Arm** 🤖  
+  Trained a simulated robotic arm with RL algorithms to grab objects.  
+  * **Tech Stack**: Python, PyTorch, RL-Gym, OpenAI Gym.  
 
-There's so much more I'm learning and building as an aspiring ML engineer. [Let's connect on LinkedIn!](https://www.linkedin.com/in/harshaljhirpara) I'm always happy to network with others who are passionate about AI. 😊
+* **Plant Disease Classification** 🌱  
+  Image classifier identifying 38 plant diseases with ResNet.  
+  * **Tech Stack**: Python, TensorFlow, Keras, ResNet, OpenCV.  
 
+---
 
+There's so much more I'm learning and building as an aspiring ML engineer.  
+[Let's connect on LinkedIn!](https://www.linkedin.com/in/harshaljhirpara) I'm always happy to network with others who are passionate about AI. 😊
