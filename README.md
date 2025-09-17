@@ -41,13 +41,6 @@ I love building intelligent systems to solve real-world problems with cutting-ed
 
 ---
 
-#### 📝 Recent Medium Article:
-* **Exploring Large Language Models: Concepts, Alignment Techniques, and Practical Implementation** 📝  
-  In this article, I delve into training methods for large language models and alignment techniques, including practical implementations of LoRA, QLoRA, and RLHF. Check it out [here](https://medium.com/@hhirp/exploring-large-language-models-concepts-alignment-techniques-and-practical-implementation-8279aaa2f91f).  
-  For more of my writing, visit my [Medium](https://medium.com/@hhirp).
-
----
-
 #### 📚 Research & Publications:
 * **Online LLM Alignment Beyond Preference Methods** *(Under Writing)*  
   Advanced LLM alignment via online DPO with LLM-as-a-Judge, reducing reliance on preference-based scoring with automated W&B hyperparameter sweeps.  
